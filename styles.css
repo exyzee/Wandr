@@ -392,16 +392,7 @@ header {
   color: var(--text-light);
 }
 
-.book__now {
-  padding: 0.5rem 1.5rem;
-  color: var(--primary-color);
-  outline: none;
-  border: 1px solid var(--primary-color);
-  border-radius: 5rem;
-  background-color: transparent;
-  cursor: pointer;
-  transition: 0.3s;
-}
+
 
 .book__now:hover {
   color: var(--extra-light);
