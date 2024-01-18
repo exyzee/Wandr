@@ -1,3 +1,5 @@
+console.log("hello")
+
 function toggle(){
   var promovid= document.querySelector(".promovid")
   var video= document.querySelector("video")
@@ -5,3 +7,4 @@ function toggle(){
   video.pause();
   video.currentTime = 0;
 } 
+
